@@ -12,4 +12,3 @@
  const {values, handleInputChange,reset}=useForm(initialForm);
 
  ```
- useConter(10) // recibe un valor por defecto
